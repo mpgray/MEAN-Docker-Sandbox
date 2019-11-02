@@ -35,7 +35,7 @@
     "handlebars-layouts": "^3.1.4",
     "hbs": "~4.0.1",
     "materialize-css": "^1.0.0-rc.2",
-    "mongoose": "^5.0.17",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0",
     "rxjs": "^6.1.0",
     "serve-favicon": "~2.5.0",
